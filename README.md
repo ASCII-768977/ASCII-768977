@@ -1,5 +1,5 @@
 
-# <img src="/public/welcome.gif" height="50px" /> Greeting!
+# <img src="/public/welcome.gif" width="60px" /> Greeting!
 
 ## ***Find more about me at https://forrest-lin.com***
 <img src="/public/screenshot.jpeg" alt="screenshot" style="width:100%">
