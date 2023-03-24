@@ -40,7 +40,6 @@ const aboutMe = {
 ### <img src="/public/shakeheaddog.gif" width="50px" /> I’m currently learning ...
 
 
-
 ### <img src="/public/dancingdog.gif" width="50px" /> I’m looking to collaborate on ...
 
 
@@ -53,8 +52,9 @@ const aboutMe = {
 
 
 ### <img src="/public/contact.gif" width="50px" /> How to reach me: ...
-<p align="center">
 
+
+<p align="center">
   <a href="https://www.instagram.com/forrest_lin_/">
     <img src="/public/ins.webp" height="35px" style="margin: 5px;" />
   </a>
