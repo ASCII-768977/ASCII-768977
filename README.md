@@ -2,10 +2,10 @@
 # <img src="/public/helloworld.gif" width="60px" style="float:left" /> Greeting!
 
 ## ***Find more about me at https://forrest-lin.com***
-<img src="/screenshot.jpeg" alt="screenshot" style="width:100%">
+<img src="/public/screenshot.jpeg" alt="screenshot" style="width:100%">
 
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px" style="float:right; margin-top:150px;" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px" align="right" style="margin-top:150px;" />
 
 ### About Me
 ```javascript
