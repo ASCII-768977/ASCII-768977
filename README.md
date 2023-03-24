@@ -61,7 +61,7 @@ const aboutMe = {
   <a href="https://www.linkedin.com/in/forrest-lin/">
     <img src="/public/linkedin.png" height="35px" style="margin: 5px;" />
   </a>
-  <a href="https://discord.gg/KgF4WGf">
+  <a href="mailto:forrest.lin.work@gmail.com">
     <img src="/public/gmail.webp" height="35px" style="margin: 5px;" />
   </a>
 </p>
