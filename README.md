@@ -1,20 +1,11 @@
-<div style="display: flex; align-items: center">
-<img src="/helloworld.gif" style="width: 13%" />
-<h1>Greeting!</h1>
-</div>
 
-<div>
-<h2>
-<i>Find more about me at<a href="https://forrest-lin.com">https://forrest-lin.com</a></i>
-</h2>
+# <img src="/public/helloworld.gif" width="60px" style="float:left" /> Greeting!
+
+## ***Find more about me at https://forrest-lin.com***
 <img src="/screenshot.jpeg" alt="screenshot" style="width:100%">
-</div>
 
-<img
-style="float:right;margin-top:150px"
-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-width="200px"
-/>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px" style="float:right; margin-top:150px;" />
 
 ### About Me
 ```javascript
