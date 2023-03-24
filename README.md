@@ -1,5 +1,5 @@
 
-# <img src="/public/helloworld.gif" width="60px" align=left /> Greeting!
+# <img src="/public/helloworld.gif" height="50px" align=left /> Greeting!
 
 ## ***Find more about me at https://forrest-lin.com***
 <img src="/public/screenshot.jpeg" alt="screenshot" style="width:100%">
