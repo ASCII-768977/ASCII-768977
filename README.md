@@ -1,5 +1,5 @@
 
-# <img src="/public/helloworld.gif" height="50px" align=left /> Greeting!
+# <img src="/public/welcome.gif" height="50px" /> Greeting!
 
 ## ***Find more about me at https://forrest-lin.com***
 <img src="/public/screenshot.jpeg" alt="screenshot" style="width:100%">
@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px" align="right"/>
 
-### About Me
+## <img src="/public/github.gif" height="25px" />  About Me
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
