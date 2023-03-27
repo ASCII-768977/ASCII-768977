@@ -1,7 +1,11 @@
 
-# <img src="/public/welcome.gif" width="60px" /> Greeting!
+# <img src="/public/welcome.gif" width="60px" /> Greeting! <img src="/public/qrcode.png" alt="screenshot" style="width:15%;" align="right" />
 
-## ***Find more about me at https://forrest-lin.com***
+<br/>
+
+
+## ***Find more about me at https://forrest-lin.com*** or scan the QR code right -> 
+
 <img src="/public/screenshot.jpeg" alt="screenshot" style="width:100%">
 
 
