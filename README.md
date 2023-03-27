@@ -4,7 +4,7 @@
 <br/>
 
 
-## ***Find more about me at https://forrest-lin.com*** scan the QR code right -> 
+## ***Find more about me at https://forrest-lin.com*** or scan the QR code right
 
 <img src="/public/screenshot.jpeg" alt="screenshot" style="width:100%">
 
