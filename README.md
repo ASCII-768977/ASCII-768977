@@ -40,25 +40,29 @@ const aboutMe = {
 
 ### <img src="/public/catkeyboard1.gif" width="50px" /> I’m currently working on ...
 
+React.js, Node.js, Three.js
 
 ### <img src="/public/shakeheaddog.gif" width="50px" /> I’m currently learning ...
 
+Next.js
 
 ### <img src="/public/dancingdog.gif" width="50px" /> I’m looking to collaborate on ...
 
-
+Playing Cello~
 
 ### <img src="/public/searching.gif" width="50px" /> I’m looking for help with ...
 
-
+Building small business
 
 ### <img src="/public/thinking.gif" width="50px" />  Ask me about ...
 
+Music, Game, Movie, Life, Cat
 
 ### <img src="/public/contact.gif" width="50px" /> How to reach me: ...
 
 
-<p align="center">
+
+<p align="left">
   <a href="https://www.instagram.com/forrest_lin_/">
     <img src="/public/ins.webp" height="35px" style="margin: 5px;" />
   </a>
