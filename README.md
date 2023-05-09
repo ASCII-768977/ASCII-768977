@@ -14,11 +14,11 @@
 ## <img src="/public/github.gif" height="25px" />  About Me
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
+   pronouns: "He" | "Him",
    code: ["Javascript", "Typescript", "Python", "Java", "Kotlin"],
    technologies: {
       frontEnd: {
-         js: ["React", "Vue", "Three"],
+         js: ["React", "Next", "Vue", "Three"],
          css: ["Tailwind", "SCSS", "Antd", "Material UI", "Bootstrap"],
          test: ["Jest", "React Testing Library", "Enzyme"]
       },
