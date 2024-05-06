@@ -44,7 +44,7 @@ React.js, Node.js, Three.js
 
 ### <img src="/public/shakeheaddog.gif" width="50px" /> I’m currently learning ...
 
-Next.js
+Salesforce!
 
 ### <img src="/public/dancingdog.gif" width="50px" /> I’m looking to collaborate on ...
 
